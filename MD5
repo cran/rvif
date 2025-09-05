@@ -1,4 +1,4 @@
-4b3a558b112f9a6b3d1b5f68eb3e7fbd *DESCRIPTION
+46ad782eb7b54a40c709c92a2b4b7fa0 *DESCRIPTION
 d9a039c4c12c4890ae416023b9052b16 *NAMESPACE
 af10519d27ff8ffe7ac261ca8ae15527 *R/cv_vif.R
 f65bb5495a58ae66f40269d0b4da4158 *R/cv_vif_plot.R
@@ -49,12 +49,12 @@ fdb652dcc200dd23b8b8040176858c36 *inst/docs/deps/font-awesome-6.5.2/webfonts/fa-
 92fe1867b8a852d38fc44334fcde4618 *inst/docs/deps/search-1.0.0/autocomplete.jquery.min.js
 a9b84ece54b1853525a2c76fd12aa23c *inst/docs/deps/search-1.0.0/fuse.min.js
 d0c5399929d81f67cd6d7687880498a6 *inst/docs/deps/search-1.0.0/mark.min.js
-faf8a8045f5549edcdd61cf685d9ee90 *inst/docs/index.html
+dba2f7fece9357234f6cae709ab9d7b3 *inst/docs/index.html
 b6babfc10247cf9190b9fa172dde62b8 *inst/docs/katex-auto.js
 5806fcea81ccc70e1ffc453a7d9e12b5 *inst/docs/lightswitch.js
 4759f31f8a585e9af173fc579d730265 *inst/docs/link.svg
 dca708c90eee1f2352a32f4754901a6a *inst/docs/pkgdown.js
-9b529050b31becfc343062c7eedce3bd *inst/docs/pkgdown.yml
+6815bd21d6935e9516776e8271ceef08 *inst/docs/pkgdown.yml
 f9c21a9585372c17b1710e359da2f15d *inst/docs/reference/CDpf.html
 cf779367609bb0834a5f26ca9d959622 *inst/docs/reference/SLM1.html
 2956dd68c313083969107e804bf6242a *inst/docs/reference/SLM2.html
@@ -86,8 +86,8 @@ e09600c0457c2cc669da952437f4fe89 *man/euribor.Rd
 60b876f0b6077de49a8ed8c2e28c8f92 *man/rvifs.Rd
 b8fcaccc524911de4608b29351da4570 *man/soil.Rd
 07ca70043c636b3e376e18ae5fd4ced8 *tests/testthat.R
-21adf02a016968304c9f977c735335bf *tests/testthat/test-cv_vif.R
-0723a6599f37668e14d9384c9e294ded *tests/testthat/test-cv_vif_plot.R
-4f8269643aadb1409ffbf2713160e40f *tests/testthat/test-multicollinearity.R
-34e4f059b323fdf999d4f5faaa388726 *tests/testthat/test-rvifs.R
+de50152d1dd5e0b71fcc14f03c665e88 *tests/testthat/test-cv_vif.R
+18355b716ffb0ca9b5590e185de11b1e *tests/testthat/test-cv_vif_plot.R
+682f2ecbbab8a23f73c24bdec0a1fbf7 *tests/testthat/test-multicollinearity.R
+b0353e6cf57e842e41f027f6d94bf477 *tests/testthat/test-rvifs.R
 0dddf1e952af558da12983443ea1bb32 *vignettes/The_rvif_package.Rmd
